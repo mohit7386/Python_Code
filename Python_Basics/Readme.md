@@ -26,6 +26,7 @@ Python runs on an interpreter system, meaning that code can be executed as soon 
 Python can be treated in a procedural way, an object-oriented way or a functional way.
 
 Good to know ->
+
 The most recent major version of Python is Python 3, which we shall be using in this tutorial.
 In this tutorial Python will be written in a text editor. It is possible to write Python in an Integrated Development Environment, such as Thonny, Pycharm, Netbeans or Eclipse which are particularly useful when managing larger collections of Python files.
 
